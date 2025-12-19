@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/stb-model-frontend-application-8010-8019/stb_models_frontend_app"
+}
